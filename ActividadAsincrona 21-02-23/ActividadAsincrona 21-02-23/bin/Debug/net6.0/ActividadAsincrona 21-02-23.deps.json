@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ActividadAsincrona 21-02-23/1.0.0": {
+        "runtime": {
+          "ActividadAsincrona 21-02-23.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ActividadAsincrona 21-02-23/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
